@@ -40,7 +40,7 @@ calidad del código, la arquitectura y la experiencia de las cosas que construyo
 </a>
 </p>
 
-<h3>Languages and Tools:</h3>
+<h3>Idiomas y herramientas:</h3>
 <p>
 <a href="https://angular.io" target="_blank">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" 
