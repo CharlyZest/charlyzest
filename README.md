@@ -5,7 +5,7 @@
 Mi pasión por la codificación radica en soñar ideas y hacerlas realidad con interfaces elegantes. Cuido mucho la
 calidad del código, la arquitectura y la experiencia de las cosas que construyo.
 
-🌱 Actualmente estoy aprendiendo **NET 5 & Vue**
+🌱 Actualmente estoy aprendiendo **NET 8 & Kotlin** y fortaleciendo mis habilidades _CI/CD_ en **Azure DevOps**
 
 <img src="https://komarev.com/ghpvc/?username=charlyzest&label=Profile%20views&color=0e75b6&style=flat" alt="charlyzest" />
 <!--<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charlyzest" alt="charlyzest" /></a></p>-->
@@ -90,12 +90,6 @@ calidad del código, la arquitectura y la experiencia de las cosas que construyo
         width="40" 
         height="40" />
 </a>
-<a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" 
-        alt="express" 
-        width="40" 
-        height="40" />
-</a>
 <a href="https://www.figma.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" 
         alt="figma" 
@@ -173,30 +167,12 @@ calidad del código, la arquitectura y la experiencia de las cosas que construyo
         alt="nodejs" 
         width="40" 
         height="40" /> 
-</a> 
-<a href="https://nuxtjs.org/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" 
-        alt="nuxtjs" 
-        width="40" 
-        height="40" />
 </a>
 <a href="https://postman.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" 
         alt="postman"
         width="40" 
         height="40" />
-</a> 
-<a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" 
-        alt="react" 
-        width="40" 
-        height="40" /> 
-</a> 
-<a href="https://realm.io/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" 
-        alt="realm" 
-        width="40" 
-        height="40" /> 
 </a> 
 <a href="https://redis.io" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" 
