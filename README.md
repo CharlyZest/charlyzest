@@ -5,7 +5,7 @@
 Mi pasión por la codificación radica en soñar ideas y hacerlas realidad con interfaces elegantes. Cuido mucho la
 calidad del código, la arquitectura y la experiencia de las cosas que construyo.
 
-🌱 Actualmente estoy aprendiendo **NET 8 & Kotlin** y fortaleciendo mis habilidades _CI/CD_ en **Azure DevOps**
+🌱 Actualmente estoy fortaleciendo mis conocimientos de **NET 9 & Kotlin**, mejorando mis habilidades _CI/CD_ con **Azure DevOps** e innovando con **Azure Cloud**.
 
 <img src="https://komarev.com/ghpvc/?username=charlyzest&label=Profile%20views&color=0e75b6&style=flat" alt="charlyzest" />
 <!--<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charlyzest" alt="charlyzest" /></a></p>-->
